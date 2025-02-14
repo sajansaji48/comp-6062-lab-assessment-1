@@ -1,7 +1,9 @@
 .headingPrimary {
    color: #ff1c42 ; 
    margin-top: 50px;
+   margin-left: 100px;
    margin-bottom: 50px;
+   font-size: x-large;
 
 }
 .headingSecondary {
